@@ -1,0 +1,39 @@
+name: DART RSS 생성
+
+on:
+  schedule:
+    - cron: "0,30 22,23 * * 0-4"
+    - cron: "0,30 0,1,2,3,4,5,6,7,8,9 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 의존성 설치
+        run: pip install requests
+
+      - name: RSS 생성
+        env:
+          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+        run: python generate_rss.py
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml docs/seen.json
+          git diff --staged --quiet || git commit -m "chore: DART RSS 업데이트 $(date +'%Y-%m-%d %H:%M KST' -d '+9 hours')"
+          git push

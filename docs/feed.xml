@@ -5,20 +5,27 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 15 Jul 2026 06:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:31:14 +0000</lastBuildDate>
     <item>
-      <title>[한화] 임시주주총회결과              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715800306</link>
-      <guid>20260715800306</guid>
+      <title>[남양유업] 주식소각결정              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715800525</link>
+      <guid>20260715800525</guid>
       <pubDate>Wed, 15 Jul 2026 09:00:00 +0900</pubDate>
-      <description>한화 | 임시주주총회결과               | 접수일: 2026-07-15</description>
+      <description>남양유업 | 주식소각결정               | 접수일: 2026-07-15</description>
     </item>
     <item>
-      <title>[오리온] 기업설명회(IR)개최(안내공시)              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715800295</link>
-      <guid>20260715800295</guid>
+      <title>[남양유업] 최대주주등소유주식변동신고서              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715800523</link>
+      <guid>20260715800523</guid>
       <pubDate>Wed, 15 Jul 2026 09:00:00 +0900</pubDate>
-      <description>오리온 | 기업설명회(IR)개최(안내공시)               | 접수일: 2026-07-15</description>
+      <description>남양유업 | 최대주주등소유주식변동신고서               | 접수일: 2026-07-15</description>
+    </item>
+    <item>
+      <title>[교촌에프앤비] 주요사항보고서(자기주식취득신탁계약해지결정)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715000335</link>
+      <guid>20260715000335</guid>
+      <pubDate>Wed, 15 Jul 2026 09:00:00 +0900</pubDate>
+      <description>교촌에프앤비 | 주요사항보고서(자기주식취득신탁계약해지결정) | 접수일: 2026-07-15</description>
     </item>
   </channel>
 </rss>

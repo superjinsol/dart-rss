@@ -5,20 +5,27 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 10 Aug 2026 05:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 06:55:53 +0000</lastBuildDate>
     <item>
-      <title>[매일홀딩스] 중대재해발생(자회사의 주요경영사항)              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810900282</link>
-      <guid>20260810900282</guid>
+      <title>[교촌에프앤비] 현금ㆍ현물배당결정              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810800461</link>
+      <guid>20260810800461</guid>
       <pubDate>Mon, 10 Aug 2026 09:00:00 +0900</pubDate>
-      <description>매일홀딩스 | 중대재해발생(자회사의 주요경영사항)               | 접수일: 2026-08-10</description>
+      <description>교촌에프앤비 | 현금ㆍ현물배당결정               | 접수일: 2026-08-10</description>
     </item>
     <item>
-      <title>[매일유업] 중대재해발생              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810900281</link>
-      <guid>20260810900281</guid>
+      <title>[BGF] 주식등의대량보유상황보고서(일반)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810000465</link>
+      <guid>20260810000465</guid>
       <pubDate>Mon, 10 Aug 2026 09:00:00 +0900</pubDate>
-      <description>매일유업 | 중대재해발생               | 접수일: 2026-08-10</description>
+      <description>BGF | 주식등의대량보유상황보고서(일반) | 접수일: 2026-08-10</description>
+    </item>
+    <item>
+      <title>[BGF리테일] 주식등의대량보유상황보고서(일반)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810000444</link>
+      <guid>20260810000444</guid>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 +0900</pubDate>
+      <description>BGF리테일 | 주식등의대량보유상황보고서(일반) | 접수일: 2026-08-10</description>
     </item>
   </channel>
 </rss>

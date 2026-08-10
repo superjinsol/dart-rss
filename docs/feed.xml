@@ -5,6 +5,20 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 10 Aug 2026 03:57:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 05:29:08 +0000</lastBuildDate>
+    <item>
+      <title>[매일홀딩스] 중대재해발생(자회사의 주요경영사항)              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810900282</link>
+      <guid>20260810900282</guid>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 +0900</pubDate>
+      <description>매일홀딩스 | 중대재해발생(자회사의 주요경영사항)               | 접수일: 2026-08-10</description>
+    </item>
+    <item>
+      <title>[매일유업] 중대재해발생              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810900281</link>
+      <guid>20260810900281</guid>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 +0900</pubDate>
+      <description>매일유업 | 중대재해발생               | 접수일: 2026-08-10</description>
+    </item>
   </channel>
 </rss>

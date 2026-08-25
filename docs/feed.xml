@@ -5,13 +5,20 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:42:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:43:47 +0000</lastBuildDate>
     <item>
-      <title>[파라다이스] 주식등의대량보유상황보고서(일반)</title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260825000348</link>
-      <guid>20260825000348</guid>
+      <title>[사조대림] 최대주주등소유주식변동신고서              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260825800607</link>
+      <guid>20260825800607</guid>
       <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
-      <description>파라다이스 | 주식등의대량보유상황보고서(일반) | 접수일: 2026-08-25</description>
+      <description>사조대림 | 최대주주등소유주식변동신고서               | 접수일: 2026-08-25</description>
+    </item>
+    <item>
+      <title>[사조대림] 주식등의대량보유상황보고서(일반)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260825000432</link>
+      <guid>20260825000432</guid>
+      <pubDate>Tue, 25 Aug 2026 09:00:00 +0900</pubDate>
+      <description>사조대림 | 주식등의대량보유상황보고서(일반) | 접수일: 2026-08-25</description>
     </item>
   </channel>
 </rss>

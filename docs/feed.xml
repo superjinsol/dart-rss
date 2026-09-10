@@ -5,48 +5,13 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:06:04 +0000</lastBuildDate>
     <item>
-      <title>[BGF리테일] 최대주주등소유주식변동신고서              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910800635</link>
-      <guid>20260910800635</guid>
+      <title>[BGF] 주식등의대량보유상황보고서(일반)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910000530</link>
+      <guid>20260910000530</guid>
       <pubDate>Thu, 10 Sep 2026 09:00:00 +0900</pubDate>
-      <description>BGF리테일 | 최대주주등소유주식변동신고서               | 접수일: 2026-09-10</description>
-    </item>
-    <item>
-      <title>[삼양홀딩스] [기재정정]벌금등의부과(자회사의 주요경영사항)              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910800369</link>
-      <guid>20260910800369</guid>
-      <pubDate>Thu, 10 Sep 2026 09:00:00 +0900</pubDate>
-      <description>삼양홀딩스 | [기재정정]벌금등의부과(자회사의 주요경영사항)               | 접수일: 2026-09-10</description>
-    </item>
-    <item>
-      <title>[삼양사] [기재정정]벌금등의부과              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910800367</link>
-      <guid>20260910800367</guid>
-      <pubDate>Thu, 10 Sep 2026 09:00:00 +0900</pubDate>
-      <description>삼양사 | [기재정정]벌금등의부과               | 접수일: 2026-09-10</description>
-    </item>
-    <item>
-      <title>[한화] 기업설명회(IR)개최(안내공시)              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910800279</link>
-      <guid>20260910800279</guid>
-      <pubDate>Thu, 10 Sep 2026 09:00:00 +0900</pubDate>
-      <description>한화 | 기업설명회(IR)개최(안내공시)               | 접수일: 2026-09-10</description>
-    </item>
-    <item>
-      <title>[이마트] 영업(잠정)실적(공정공시)              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910800150</link>
-      <guid>20260910800150</guid>
-      <pubDate>Thu, 10 Sep 2026 09:00:00 +0900</pubDate>
-      <description>이마트 | 영업(잠정)실적(공정공시)               | 접수일: 2026-09-10</description>
-    </item>
-    <item>
-      <title>[BGF리테일] 주식등의대량보유상황보고서(일반)</title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910000507</link>
-      <guid>20260910000507</guid>
-      <pubDate>Thu, 10 Sep 2026 09:00:00 +0900</pubDate>
-      <description>BGF리테일 | 주식등의대량보유상황보고서(일반) | 접수일: 2026-09-10</description>
+      <description>BGF | 주식등의대량보유상황보고서(일반) | 접수일: 2026-09-10</description>
     </item>
   </channel>
 </rss>

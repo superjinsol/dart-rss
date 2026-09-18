@@ -5,6 +5,27 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:20:53 +0000</lastBuildDate>
+    <item>
+      <title>[한섬] 주식소각결정              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918800133</link>
+      <guid>20260918800133</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0900</pubDate>
+      <description>한섬 | 주식소각결정               | 접수일: 2026-09-18</description>
+    </item>
+    <item>
+      <title>[한섬] 수시공시의무관련사항(공정공시)              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918800108</link>
+      <guid>20260918800108</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0900</pubDate>
+      <description>한섬 | 수시공시의무관련사항(공정공시)               | 접수일: 2026-09-18</description>
+    </item>
+    <item>
+      <title>[한섬] 주요사항보고서(자기주식취득결정)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260918000068</link>
+      <guid>20260918000068</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0900</pubDate>
+      <description>한섬 | 주요사항보고서(자기주식취득결정) | 접수일: 2026-09-18</description>
+    </item>
   </channel>
 </rss>

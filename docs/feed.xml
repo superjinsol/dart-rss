@@ -5,6 +5,20 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 13 Oct 2026 02:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:37:24 +0000</lastBuildDate>
+    <item>
+      <title>[이마트] 영업(잠정)실적(공정공시)              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800181</link>
+      <guid>20261013800181</guid>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 +0900</pubDate>
+      <description>이마트 | 영업(잠정)실적(공정공시)               | 접수일: 2026-10-13</description>
+    </item>
+    <item>
+      <title>[오리온] 연결재무제표기준영업(잠정)실적(공정공시)              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800166</link>
+      <guid>20261013800166</guid>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 +0900</pubDate>
+      <description>오리온 | 연결재무제표기준영업(잠정)실적(공정공시)               | 접수일: 2026-10-13</description>
+    </item>
   </channel>
 </rss>

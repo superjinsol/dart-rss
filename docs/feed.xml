@@ -5,6 +5,34 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 15 Oct 2026 03:25:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 08:34:44 +0000</lastBuildDate>
+    <item>
+      <title>[이마트] 주식소각결정              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800412</link>
+      <guid>20261015800412</guid>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 +0900</pubDate>
+      <description>이마트 | 주식소각결정               | 접수일: 2026-10-15</description>
+    </item>
+    <item>
+      <title>[GS] [발행조건확정]증권신고서(채무증권)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000311</link>
+      <guid>20261015000311</guid>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 +0900</pubDate>
+      <description>GS | [발행조건확정]증권신고서(채무증권) | 접수일: 2026-10-15</description>
+    </item>
+    <item>
+      <title>[GS] [기재정정]증권신고서(채무증권)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000303</link>
+      <guid>20261015000303</guid>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 +0900</pubDate>
+      <description>GS | [기재정정]증권신고서(채무증권) | 접수일: 2026-10-15</description>
+    </item>
+    <item>
+      <title>[동원산업] 특수관계인에대한자금대여</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000215</link>
+      <guid>20261015000215</guid>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 +0900</pubDate>
+      <description>동원산업 | 특수관계인에대한자금대여 | 접수일: 2026-10-15</description>
+    </item>
   </channel>
 </rss>

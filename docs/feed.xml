@@ -5,20 +5,41 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:17:07 +0000</lastBuildDate>
     <item>
-      <title>[한화] 기업설명회(IR)개최(안내공시)              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016800036</link>
-      <guid>20261016800036</guid>
+      <title>[한섬] 최대주주등소유주식변동신고서              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016800210</link>
+      <guid>20261016800210</guid>
       <pubDate>Fri, 16 Oct 2026 09:00:00 +0900</pubDate>
-      <description>한화 | 기업설명회(IR)개최(안내공시)               | 접수일: 2026-10-16</description>
+      <description>한섬 | 최대주주등소유주식변동신고서               | 접수일: 2026-10-16</description>
     </item>
     <item>
-      <title>[한화] 기업설명회(IR)개최(안내공시)              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016800024</link>
-      <guid>20261016800024</guid>
+      <title>[한화] 특수관계인에대한출자</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000029</link>
+      <guid>20261016000029</guid>
       <pubDate>Fri, 16 Oct 2026 09:00:00 +0900</pubDate>
-      <description>한화 | 기업설명회(IR)개최(안내공시)               | 접수일: 2026-10-16</description>
+      <description>한화 | 특수관계인에대한출자 | 접수일: 2026-10-16</description>
+    </item>
+    <item>
+      <title>[한화] 특수관계인에대한담보제공</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000028</link>
+      <guid>20261016000028</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 +0900</pubDate>
+      <description>한화 | 특수관계인에대한담보제공 | 접수일: 2026-10-16</description>
+    </item>
+    <item>
+      <title>[한섬] 임원ㆍ주요주주특정증권등소유상황보고서</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000015</link>
+      <guid>20261016000015</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 +0900</pubDate>
+      <description>한섬 | 임원ㆍ주요주주특정증권등소유상황보고서 | 접수일: 2026-10-16</description>
+    </item>
+    <item>
+      <title>[한섬] 주식등의대량보유상황보고서(일반)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000011</link>
+      <guid>20261016000011</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 +0900</pubDate>
+      <description>한섬 | 주식등의대량보유상황보고서(일반) | 접수일: 2026-10-16</description>
     </item>
   </channel>
 </rss>

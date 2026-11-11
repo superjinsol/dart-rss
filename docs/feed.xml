@@ -5,13 +5,20 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 11 Nov 2026 01:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:54:22 +0000</lastBuildDate>
     <item>
-      <title>[롯데웰푸드] 연결재무제표기준영업(잠정)실적(공정공시)              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800116</link>
-      <guid>20261111800116</guid>
+      <title>[이마트] 영업(잠정)실적(공정공시)              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800242</link>
+      <guid>20261111800242</guid>
       <pubDate>Wed, 11 Nov 2026 09:00:00 +0900</pubDate>
-      <description>롯데웰푸드 | 연결재무제표기준영업(잠정)실적(공정공시)               | 접수일: 2026-11-11</description>
+      <description>이마트 | 영업(잠정)실적(공정공시)               | 접수일: 2026-11-11</description>
+    </item>
+    <item>
+      <title>[이마트] 연결재무제표기준영업(잠정)실적(공정공시)              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800235</link>
+      <guid>20261111800235</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0900</pubDate>
+      <description>이마트 | 연결재무제표기준영업(잠정)실적(공정공시)               | 접수일: 2026-11-11</description>
     </item>
   </channel>
 </rss>

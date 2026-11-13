@@ -5,13 +5,20 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:14:17 +0000</lastBuildDate>
     <item>
-      <title>[농심] 분기보고서 (2026.09)</title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000302</link>
-      <guid>20261113000302</guid>
+      <title>[동원수산] 분기보고서 (2026.09)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000531</link>
+      <guid>20261113000531</guid>
       <pubDate>Fri, 13 Nov 2026 09:00:00 +0900</pubDate>
-      <description>농심 | 분기보고서 (2026.09) | 접수일: 2026-11-13</description>
+      <description>동원수산 | 분기보고서 (2026.09) | 접수일: 2026-11-13</description>
+    </item>
+    <item>
+      <title>[신세계인터내셔날] 동일인등출자계열회사와의상품ㆍ용역거래변경</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000332</link>
+      <guid>20261113000332</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0900</pubDate>
+      <description>신세계인터내셔날 | 동일인등출자계열회사와의상품ㆍ용역거래변경 | 접수일: 2026-11-13</description>
     </item>
   </channel>
 </rss>

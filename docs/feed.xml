@@ -5,13 +5,20 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:31:13 +0000</lastBuildDate>
     <item>
-      <title>[현대백화점] 기업설명회(IR)개최(안내공시)              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800187</link>
-      <guid>20261118800187</guid>
+      <title>[하림지주] 주식등의대량보유상황보고서(일반)</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000346</link>
+      <guid>20261118000346</guid>
       <pubDate>Wed, 18 Nov 2026 09:00:00 +0900</pubDate>
-      <description>현대백화점 | 기업설명회(IR)개최(안내공시)               | 접수일: 2026-11-18</description>
+      <description>하림지주 | 주식등의대량보유상황보고서(일반) | 접수일: 2026-11-18</description>
+    </item>
+    <item>
+      <title>[삼양식품] 임원ㆍ주요주주특정증권등거래계획보고서</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000246</link>
+      <guid>20261118000246</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0900</pubDate>
+      <description>삼양식품 | 임원ㆍ주요주주특정증권등거래계획보고서 | 접수일: 2026-11-18</description>
     </item>
   </channel>
 </rss>

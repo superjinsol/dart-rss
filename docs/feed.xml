@@ -5,13 +5,27 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:50:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:56:20 +0000</lastBuildDate>
     <item>
-      <title>[CJ] [기재정정]금전대여결정(자회사의 주요경영사항)              </title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800370</link>
-      <guid>20261120800370</guid>
+      <title>[롯데지주] 타인에대한채무보증결정(자회사의 주요경영사항)              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800848</link>
+      <guid>20261120800848</guid>
       <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
-      <description>CJ | [기재정정]금전대여결정(자회사의 주요경영사항)               | 접수일: 2026-11-20</description>
+      <description>롯데지주 | 타인에대한채무보증결정(자회사의 주요경영사항)               | 접수일: 2026-11-20</description>
+    </item>
+    <item>
+      <title>[강원랜드] [기재정정]의결권대리행사권유참고서류</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000597</link>
+      <guid>20261120000597</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
+      <description>강원랜드 | [기재정정]의결권대리행사권유참고서류 | 접수일: 2026-11-20</description>
+    </item>
+    <item>
+      <title>[강원랜드] [기재정정]주주총회소집공고</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000578</link>
+      <guid>20261120000578</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
+      <description>강원랜드 | [기재정정]주주총회소집공고 | 접수일: 2026-11-20</description>
     </item>
   </channel>
 </rss>

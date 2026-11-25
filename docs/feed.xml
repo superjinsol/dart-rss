@@ -5,13 +5,34 @@
     <link>https://dart.fss.or.kr</link>
     <description>블로터 유통산업부 담당 기업 DART 공시 피드</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 24 Nov 2026 19:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:51:41 +0000</lastBuildDate>
     <item>
-      <title>[하림지주] 주식등의대량보유상황보고서(일반)</title>
-      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000545</link>
-      <guid>20261124000545</guid>
-      <pubDate>Tue, 24 Nov 2026 09:00:00 +0900</pubDate>
-      <description>하림지주 | 주식등의대량보유상황보고서(일반) | 접수일: 2026-11-24</description>
+      <title>[롯데웰푸드] 기업설명회(IR)개최(안내공시)              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800154</link>
+      <guid>20261125800154</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+      <description>롯데웰푸드 | 기업설명회(IR)개최(안내공시)               | 접수일: 2026-11-25</description>
+    </item>
+    <item>
+      <title>[삼립] 최대주주등소유주식변동신고서              </title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800084</link>
+      <guid>20261125800084</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+      <description>삼립 | 최대주주등소유주식변동신고서               | 접수일: 2026-11-25</description>
+    </item>
+    <item>
+      <title>[농심] 대규모기업집단현황공시[분기별공시(대표회사용)]</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000159</link>
+      <guid>20261125000159</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+      <description>농심 | 대규모기업집단현황공시[분기별공시(대표회사용)] | 접수일: 2026-11-25</description>
+    </item>
+    <item>
+      <title>[삼립] 임원ㆍ주요주주특정증권등소유상황보고서</title>
+      <link>https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000119</link>
+      <guid>20261125000119</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+      <description>삼립 | 임원ㆍ주요주주특정증권등소유상황보고서 | 접수일: 2026-11-25</description>
     </item>
   </channel>
 </rss>
